@@ -47,3 +47,57 @@ Programming language:C++
 28. Write a program to input values into variables a, b and c. Compute the value of 'disc' by using formula: disc = b2 - 4ac
 29. Write a program to print a message if the value of variable "n" is greater than 100, otherwise ignore the statement.
 30. Write a program to test whether a given integer is odd or even using simple 'if' structure.
+
+Program Title             File Name
+Assign values to 3
+variables
+and print them           program01.c++
+Print a message          program02.c++
+Interchange two
+variables                program03.c++
+Convert years to
+months                   program04.c++
+Sum and product of
+two numbers              program05.c++
+Convert age in years
+to months                program06.c++
+Total and average of
+3 subjects               program07.c++
+Fahrenheit to Celsius    program08.c++
+Maximum of four numbers  program09.c++
+Miles to kilometers      program10.c++
+Average of two integers  program11.c++
+Volume of a cylinder
+ (use const)             program12.c++
+Area of a circle using
+ #define                 program13.c++
+Millimeters to inches    program14.c++
+Interchange two
+variables                program15.c++
+Multiple assignment      program16.c++
+Separate integral &
+fractional parts         program17.c++
+Compute s = vi*t + ½at²  program18.c++
+Age in years → months
+& days                   program19.c++
+Print escape-sequence
+output                   program20.c++
+Print pattern using
+single printf            program21.c++
+Input student data
+and print                program22.c++
+Area & circumference
+of circle                program23.c++
+Total & average of
+5 subjects               program24.c++
+Area of triangle
+using Heron’s formula    program25.c++
+Rupees to dollars        program26.c++
+Time → seconds           program27.c++
+Compute discriminant     program28.c++
+Print message if
+n > 100                  program29.c++
+Check even or odd        program30.c++
+
+How to run:
+g++ program01.cpp
